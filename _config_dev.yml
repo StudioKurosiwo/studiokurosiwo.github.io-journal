@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Journal.Studiokurosiwo
+tagline:          'The Journal of designer Sipo Siwo.'
+description:      'The Journal of designer Sipo Siwo.'
+url:              http://locahost:4000
+paginate:         5
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/poole/lanyon
