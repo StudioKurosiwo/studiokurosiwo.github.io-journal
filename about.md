@@ -1,30 +1,14 @@
 ---
 layout: page
-title: About
+title: About Sipo
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<p>Having had my thespian aspirations cruelly quashed at an impressionable age by my inability to land a speaking part in the school play, and being instead saddled with a the role of  an uncoordinated leggings wearing “whirlwind dancer” prancing around (upstage) to Jean Michel Jarre's Oxygene, I found solace when my design was chosen for the play program. Since then design has continued to redeemed and define me. My liaison with design was consummated with a formal education first with an art and design foundation at Camberwell college of arts then a design degree from Goldsmiths University of London.</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<p>Away from design I can be found drinking craft beers in the most pretentious way possible or indulging in my other love, film.
 
-There are currently two themes built on Poole:
+Enough about me, what's your story?</p>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+###Sipo for hire
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Currently available for select projects, collaborations and consultations.
