@@ -6,18 +6,19 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Studio kurosiwo Journal
-tagline:          'Studio Kurosiwo Journal'
-description:      'The Journal of designer Sipo Siwo.'
-url:              http://studiokurosiwo.github.io/
-paginate:         5
+title:            Studio Kurosiwo Journal
+tagline:          'A Jekyll theme'
+description:      'The musings of Designer Sipo Siwo'
+url:              http://hyde.getpoole.com
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
+paginate:         5
+
 # Custom vars
-version:          1.0.0
+version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/poole/hyde
