@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(20,16,6,.5);
-  /*background-color: #202020;*/
+  background: url("/public/arches.png");
   border-right: 1px solid #eee;
   font-family: "ubuntu", Helvetica, Arial, sans-serif;
 }
@@ -91,6 +91,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   font-family: "ubuntu", serif;
   font-size: 1.50rem;
+
 }
 
 /* Sidebar nav */
@@ -121,7 +122,7 @@ a.sidebar-nav-item:focus {
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
-    
+  
   }
 }
 
@@ -177,7 +178,23 @@ a.sidebar-nav-item:focus {
   }
 }
 
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) { 
 
+
+  .sidebar {
+  
+  background: url("/public/arches_@2X.png");
+
+}
+ 
+
+}
 
 /*
  * Themes
