@@ -6,8 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Journal.Studiokurosiwo
-tagline:          'The Journal of designer Sipo Siwo.'
+title:            Studio kurosiwo Journal
+tagline:          'The Studio Kurosiwo Journal.'
 description:      'The Journal of designer Sipo Siwo.'
 url:              http://locahost:4000
 paginate:         5

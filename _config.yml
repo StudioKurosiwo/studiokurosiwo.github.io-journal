@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Journal.Studiokurosiwo
-tagline:          'The Journal of designer Sipo Siwo.'
+title:            Studio kurosiwo Journal
+tagline:          'Studio Kurosiwo Journal'
 description:      'The Journal of designer Sipo Siwo.'
-url:              http://studiokurosiwo.github.io/kurosiwoblog/
+url:              http://studiokurosiwo.github.io/
 paginate:         5
 
 author:
